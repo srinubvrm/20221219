@@ -6,7 +6,7 @@ clone the repo to master instance from the personal GitHub.
 add a file with name "task" in /root/20221219/project/ path.
 append the below data in the "task" file.
 "Hi this is master instance"
-add a folder with name "folder" in the project folder and add hidden file in the folder with the name "hidden" and a file name as "image" with extension as "jpg" inside hidden folder
+add a folder with name "folder" in the project folder and add hidden file in the folder with the name "hidden" and a file name as "image" with extension as "jpg".
 push git
 clone the same repo to slave instance
 modify the data in "task" file as mentioned below
